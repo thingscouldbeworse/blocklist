@@ -1,0 +1,5 @@
+# ||name^ blocks that name and every subdomain.
+||logs.roku.com^
+||ads.roku.com^
+||ravm.tv^
+||logs.netflix.com^
