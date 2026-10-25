@@ -3,3 +3,8 @@
 ||ads.roku.com^
 ||ravm.tv^
 ||logs.netflix.com^
+||analytics.plex.tv^
+||appsflyersdk.com^
+||fullstory.com^
+||quantummetric.com^
+||mail-ads.google.com^
